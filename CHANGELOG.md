@@ -16,3 +16,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Wrote up a draft for how to implement the echolocation mechanic<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Added a Camera2D node to keep the player centered on the screen<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Added static shader (although it requires some tweaks to get it looking right)<br />
+## &nbsp;&nbsp;&nbsp;8/28/2024<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Added mask area for short range visibility using the backbuffercopy method (https://www.reddit.com/r/godot/comments/o8pp6m/easy_way_to_mask_a_sprite_in_2d_differently_from/)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Modified the static shader (made it black and blue as opposed to black and white)
