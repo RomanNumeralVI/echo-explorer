@@ -22,3 +22,4 @@
 ## &nbsp;&nbsp;&nbsp;8/29/2024<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Finally got the shaders to a point I'm happy with for now<br />
 ## &nbsp;&nbsp;&nbsp;8/30/2024<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Putting development aside to work on actually learning Godot before getting too deep into this project<br />
