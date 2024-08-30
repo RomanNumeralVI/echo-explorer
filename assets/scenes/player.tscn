@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://ch5bvu6a3uit4"]
+
+[ext_resource type="Script" path="res://assets/scripts/player.gd" id="1_k6iad"]
+[ext_resource type="Texture2D" uid="uid://c7my6wn324pox" path="res://assets/sprites/playerPlaceholder.png" id="2_6iaxf"]
+
+[sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_awtsm"]
+points = PackedVector2Array(8, 0, -8, 8, -8, -8)
+
+[node name="Player" type="CharacterBody2D"]
+position = Vector2(0, 2.04637e-12)
+script = ExtResource("1_k6iad")
+
+[node name="PlayerSprite" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(0, -2.04637e-12)
+texture = ExtResource("2_6iaxf")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-1.78816e-07, 1.19093e-07)
+shape = SubResource("ConvexPolygonShape2D_awtsm")
