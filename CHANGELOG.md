@@ -19,3 +19,6 @@
 ## &nbsp;&nbsp;&nbsp;8/28/2024<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Added mask area for short range visibility using the backbuffercopy method (https://www.reddit.com/r/godot/comments/o8pp6m/easy_way_to_mask_a_sprite_in_2d_differently_from/)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Modified the static shader (made it black and blue as opposed to black and white)
+## &nbsp;&nbsp;&nbsp;8/29/2024<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Finally got the shaders to a point I'm happy with for now<br />
+## &nbsp;&nbsp;&nbsp;8/30/2024<br />
